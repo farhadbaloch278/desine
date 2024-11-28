@@ -1,0 +1,127 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    background:linear-gradient(173deg,#004D7A,#010F34);
+    padding:20px;
+    text-align: center;
+}
+.navbar a{
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 20px;
+    text-transform: uppercase;
+    color: aliceblue;
+}
+.navbar a:hover{
+    background:linear-gradient(173deg,#004D7A,#010F34);
+}
+.gaming img{
+    width: 300px;
+    height: 300px;
+    padding: 40px 40px;
+    margin: 30px 30px;
+    border-radius: 20px;
+    border-width: 20px;
+    background:linear-gradient( 330deg,#1a0837e2,#9d6f4de8);
+}
+.gaming h1{
+    text-align: center;
+    font-size: 50px;
+    padding: 40px 40px;
+    margin: 30px 30px;
+    border-radius: 20px;
+    border-width: 20px;
+    background:linear-gradient( 330deg,#1a0837e2,#9d6f4de8);
+    text-transform: uppercase;
+    color: rgba(103, 76, 147, 0.903);
+    text-shadow: 3px 3px;
+}
+.softwere img{
+    width: 300px;
+    height: 300px;
+    padding: 40px 40px;
+    margin: 30px 30px;
+    border-radius: 20px;
+    border-width: 20px;
+    background:linear-gradient( 320deg,#67B8A7,#D8D0C5);
+
+}
+.softwere h1{
+    text-align: center;
+    font-size: 50px;
+    padding: 40px 40px;
+    margin: 30px 30px;
+    border-radius: 20px;
+    border-width: 20px;
+    background:linear-gradient( 320deg,#67B8A7,#D8D0C5);
+    text-transform: uppercase;
+    color: rgba(103, 76, 147, 0.903);
+    text-shadow: 3px 3px; 
+}
+.home img{
+    width: 300px;
+    height: 300px;
+    padding: 40px 40px;
+    margin: 40px 50px;
+    border-radius: 20px;
+    border-width: 20px;
+    background:linear-gradient( 360deg,#8499A6,#F5BC5A);
+}
+.home h1{
+    text-align: center;
+    font-size: 50px;
+    padding: 40px 40px;
+    margin: 30px 30px;
+    border-radius: 20px;
+    border-width: 20px;
+    text-transform: uppercase;
+    color: rgba(103, 76, 147, 0.903);
+    text-shadow: 3px 3px;
+    background:linear-gradient( 360deg,#8499A6,#F5BC5A); 
+}
+.about img{
+    width: 300px;
+    height: 300px;
+    padding: 40px 40px;
+    margin: 100px 100px;
+    border-radius: 20px;
+    border-width: 20px;
+    background:linear-gradient( 310deg,#631084,#9D4A89);
+}
+.about h1{
+    text-align: center;
+    font-size: 50px;
+    padding: 40px 40px;
+    margin: 30px 30px;
+    border-radius: 20px;
+    border-width: 20px;
+    text-transform: uppercase;
+    color: rgba(18, 8, 28, 0.895);
+    text-shadow: 3px 3px;
+    background:linear-gradient( 310deg,#631084,#9D4A89);
+}
+.contact form{
+    text-align: center;
+    font-size: 30px;
+    padding: 40px 40px;
+    margin: 40px 40px;
+    border-radius: 20px;
+    border-width: 20px;
+    text-transform: uppercase;
+    color: rgba(18, 8, 28, 0.895);
+   background:linear-gradient(#C7D325,#016435);
+}
+.contact h1{
+    text-align: center;
+    font-size: 50px;
+    padding: 40px 40px;
+    margin: 30px 30px;
+    border-radius: 20px;
+    border-width: 20px;
+    text-transform: uppercase;
+    color: rgba(18, 8, 28, 0.895);
+    text-shadow: 3px 3px;
+    background:linear-gradient(#C7D325,#016435);
+}
